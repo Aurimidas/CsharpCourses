@@ -33,10 +33,11 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="LessonOneVariables.cs" />
+    <Compile Include="LessonTwoArithmeticIfSwitch.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Program.cs" />
+    <None Include="LessonOneVariables.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>

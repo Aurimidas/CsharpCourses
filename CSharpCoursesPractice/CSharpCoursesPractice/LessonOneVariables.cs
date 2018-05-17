@@ -5,8 +5,8 @@ namespace CSharpCoursesPractice
     {
         public static void Main()
         {
-            //All tasks appear here
-            //Užduotys paleidžiamos čia
+            //All tasks appear here:
+            //Užduotys paleidžiamos čia:
 
             //EnterInfoAboutYourself();
             //SwapTwoNumbers();
